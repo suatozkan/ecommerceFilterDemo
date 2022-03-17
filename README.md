@@ -6,7 +6,7 @@ Ecommerce Filter Demo App with React Native(react-native: 0.66.4).
 
 It was designed according to the most preferred UI/UX in mobile e-commerce experience.
 ### !! Thanks to the architecture used, even if the application crashes, the choices and data are not lost.  
-### > In this way, users will have a professional e-commerce experience. :-) :-( 8-) ;) **
+> ###  In this way, users will have a professional e-commerce experience. :-) :-( 8-) ;) **
 
 ## Getting Started
 
