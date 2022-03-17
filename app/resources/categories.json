@@ -1,0 +1,102 @@
+[
+    {
+      "id":"Mobile Phones",
+      "name":"Mobile Phones",
+      "sortNo":"Mobile Phones",
+      "parentId":"0",
+      "children": [
+        {
+          "id":"Apple",
+          "name":"Apple",
+          "sortNo":"Apple",
+          "parentId":"Mobile Phones",
+          "children": [
+            {
+              "id":"iphone 11",
+              "name":"iphone 11",
+              "sortNo":"iphone 11",
+              "parentId":"Apple",
+              "children": [
+                {
+                  "id":"iphone 11 128GB",
+                  "name":"iphone 11 128GB",
+                  "sortNo":"iphone 11 128GB",
+                  "parentId":"iphone 11"
+                }
+            ]
+            },
+            {
+              "id":"iphone 12",
+              "name":"iphone 12",
+              "sortNo":"iphone 12",
+              "parentId":"Apple",
+              "children": [
+                {
+                  "id":"iphone 12 128GB",
+                  "name":"iphone 12 128GB",
+                  "sortNo":"iphone 12 128GB",
+                  "parentId":"iphone 12"
+                },
+                {
+                  "id":"iphone 12 256GB",
+                  "name":"iphone 12 256GB",
+                  "sortNo":"iphone 12 256GB",
+                  "parentId":"iphone 12"
+                }
+              ]
+            }
+          ]
+        },
+        {
+            "id":"Nokia",
+            "name":"Nokia",
+            "sortNo":"Nokia",
+            "parentId":"Mobile Phones",
+            "children": [
+              {
+                "id":"Nokia C7",
+                "name":"Nokia C7",
+                "sortNo":"Nokia C7",
+                "parentId":"Nokia"
+              }
+            ]
+          },
+          {
+            "id":"Samsung",
+            "name":"Samsung",
+            "sortNo":"Samsung",
+            "parentId":"Mobile Phones",
+            "children": [
+            ]
+          }
+      ]
+    },
+    {
+      "id":"Watches",
+      "name":"Watches",
+      "sortNo":"Watches",
+      "parentId":"0",
+      "children": [
+        {
+          "id":"Apple Watch",
+          "name":"Apple Watch",
+          "sortNo":"Apple Watch",
+          "parentId":"Watches",
+          "children": [
+            {
+              "id":"iWatch",
+              "name":"iWatch",
+              "sortNo":"iWatch",
+              "parentId":"Apple Watch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+        "id":"tv",
+        "name":"TVs",
+        "sortNo":"tv",
+        "parentId":"0"
+      }
+  ]
